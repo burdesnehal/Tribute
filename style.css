@@ -1,0 +1,17 @@
+*{
+     margin:0.5cm;
+     padding:0.5cm;
+   }
+html{
+     background-color: rgb(248, 20, 20);
+}
+
+body{
+     background-color: aliceblue;
+}
+h1{
+     color: rgb(226, 22, 22);
+}
+body { margin:40px; 
+     border-radius: 3%;
+     background-color: white; }
